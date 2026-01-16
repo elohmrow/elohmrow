@@ -6,6 +6,8 @@ I love building things from the ground up, connecting technology with business, 
 Bridge Builder  ·  Catalyst  ·  Glue Guy
 ```
 
+[k8gb](https://www.k8gb.io/) Community Manager & Maintainer
+
 ## 🌱 What I Do
 
 Technology Strategy · Go-to-Market · Customer Success · Technical Due Diligence · Fractional Leadership
