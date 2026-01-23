@@ -1,10 +1,8 @@
 # Hi, I'm Bradley 👋
 
 I love building things from the ground up, connecting technology with business, and helping people succeed. Early ideas and early execution are where I shine. I'm good at giving clear, dispassionate advice when it matters most.
-
-```
-Bridge Builder  ·  Catalyst  ·  Glue Guy
-```
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Bridge+Builder;Catalyst;Glue+Guy)](https://git.io/typing-svg)
 
 [k8gb](https://www.k8gb.io/) Community Manager & Maintainer
 
